@@ -11,7 +11,6 @@ qwen_agent*
 results/*
 results_newly/*
 scores/*
-tasks/*
 utils/*
 test*
 *classification*
