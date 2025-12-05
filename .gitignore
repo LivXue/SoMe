@@ -12,7 +12,6 @@ results/*
 results_newly/*
 scores/*
 tasks/*
-tools/*
 utils/*
 test*
 *classification*
@@ -28,4 +27,6 @@ setup*
 config*
 demo*
 plots/*
-*__pycache__/*
+__pycache__/
+*/__pycache__/
+**/__pycache__/
