@@ -11,7 +11,7 @@ results/*
 results_newly/*
 scores/*
 utils/*
-test*
+test_API*
 *classification*
 extract*
 exp*
@@ -20,7 +20,7 @@ data*
 Download*
 oai*
 README*
-vllm
+api_keys.txt
 setup*
 config*
 demo*
