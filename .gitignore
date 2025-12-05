@@ -1,7 +1,6 @@
 .idea/*
 database/*
 datasets/*
-eval_scripts/*
 exp_hal/*
 exp_toolchain/*
 models/*
