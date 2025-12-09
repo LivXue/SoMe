@@ -54,7 +54,7 @@ Social-Media-Agent/
 │   ├── 💬 user_comment_simulation/
 │   ├── 😊 user_emotion_analysis/
 │   └── 🎯 user_behavior_prediction/
-├── 🛠️  tools/                     # Tools for social media analysis
+├── 🛠️ tools/                      # Tools for social media analysis
 ├── 🧪 test_*.py                   # Test scripts for each task
 ├── 📊 eval_scripts/               # Evaluation scripts for scoring
 ├── 📂 results/                    # Directory for storing results
