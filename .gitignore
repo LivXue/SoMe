@@ -15,7 +15,7 @@ test_API*
 extract*
 exp*
 agent_openai*
-data*
+data_filter.py
 Download*
 oai*
 api_keys.txt
