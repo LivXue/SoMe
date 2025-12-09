@@ -4,7 +4,7 @@
 
 SoMe (Social Media) is a comprehensive benchmark designed to evaluate the capabilities of Large Language Model (LLM)-based agents in realistic social media scenarios. This benchmark provides a standardized framework for testing and comparing social media agents across multiple dimensions of performance.
 
-![SoMe Benchmark Overview](https://github.com/livxue/SoMe/tree/main/pics/framework.png)
+![SoMe Benchmark Overview](https://github.com/LivXue/SoMe/blob/main/pics/framework.png)
 
 
 ## Features
