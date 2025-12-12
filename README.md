@@ -1,4 +1,4 @@
-![SoMe Benchmark Logo](https://github.com/LivXue/SoMe/blob/main/pics/logo.png)
+<img src="https://github.com/LivXue/SoMe/blob/main/pics/logo.png" alt="SoMe Benchmark Logo" width="33%">
 # 🤖 SoMe: A Realistic Benchmark for LLM-based Social Media Agents
 
 ## 📋 Overview
