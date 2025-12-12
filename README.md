@@ -12,7 +12,7 @@ SoMe is a comprehensive benchmark designed to evaluate the capabilities of Large
 
 ## 📰 News
 
-- **[2026.02]** 🎉 Our paper is accepted by AAAI 2026!
+- **[2025.11]** 🎉 Our paper is accepted by AAAI 2026!
 
 ## ✨ Features
 
