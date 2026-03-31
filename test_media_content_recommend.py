@@ -89,8 +89,8 @@ for user_id in tqdm(interest_data):
                 print('\n')
                 result = remove_think_tags(messages[-1]['content'])
                 results[user_id][str(i)] = result
-                # with open(output_file, "w", encoding='utf8') as f:
-                #     json.dump(results, f, ensure_ascii=False, indent=4)
+                with open(output_file, "w", encoding='utf8') as f:
+                    json.dump(results, f, ensure_ascii=False, indent=4)
                 break
             except ModelServiceError as e:
                 print(e)
