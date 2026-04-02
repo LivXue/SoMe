@@ -253,6 +253,13 @@ We would like to express our gratitude to:
 
 ---
 
+## ❓ Q&A
+
+### Why did the author modify the Qwen-Agent repository?
+Early agentic LLMs each had their own tool calling formats, and they could not properly follow prompts to use Qwen's calling format. Therefore, I added support for other tool calling formats in Qwen-Agent. If you are using Qwen models or relatively new agentic LLMs, you can directly use the original Qwen-Agent repository.
+
+---
+
 ## 📞 Contact
 
 For questions or inquiries about the benchmark, please contact:
