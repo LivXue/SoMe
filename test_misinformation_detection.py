@@ -15,10 +15,10 @@ from agent import SocialMediaAgent
 from tools.en import *
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--model", type=str, default="Meta-Llama-3.1-8B-Instruct", description="The base model for the agent")
-args.add_argument('--base_url', type=str, default="http://0.0.0.0:8007/v1", description="The base url for the model server")
-args.add_argument('--api_key', type=str, default="mysecrettoken123", description="The api key for the model server")
-args.add_argument('--output_path', type=str, default="results/misinformation_detection", description="The output path for the results")
+parser.add_argument("--model", type=str, default="Meta-Llama-3.1-8B-Instruct", help="The base model for the agent")
+args.add_argument('--base_url', type=str, default="http://0.0.0.0:8007/v1", help="The base url for the model server")
+args.add_argument('--api_key', type=str, default="mysecrettoken123", help="The api key for the model server")
+args.add_argument('--output_path', type=str, default="results/misinformation_detection", help="The output path for the results")
 args = parser.parse_args()
 
 DEEPSEEK_OFF_PEAK = 'deepseek' in args.model

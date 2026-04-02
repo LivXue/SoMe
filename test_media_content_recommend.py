@@ -17,10 +17,10 @@ from tools import *
 
 
 args = argparse.ArgumentParser()
-args.add_argument('--model', type=str, default="Meta-Llama-3.1-8B-Instruct", description="The base model for the agent")
-args.add_argument('--base_url', type=str, default="http://0.0.0.0:8007/v1", description="The base url for the model server")
-args.add_argument('--api_key', type=str, default="mysecrettoken123", description="The api key for the model server")
-args.add_argument('--output_path', type=str, default="results/media_content_recommend", description="The output path for the results")
+args.add_argument('--model', type=str, default="Meta-Llama-3.1-8B-Instruct", help="The base model for the agent")
+args.add_argument('--base_url', type=str, default="http://0.0.0.0:8007/v1", help="The base url for the model server")
+args.add_argument('--api_key', type=str, default="mysecrettoken123", help="The api key for the model server")
+args.add_argument('--output_path', type=str, default="results/media_content_recommend", help="The output path for the results")
 args = args.parse_args()
 
 
