@@ -7,7 +7,7 @@
 <div align="center" style="line-height: 1.5;">
 
 [![GITHUB](https://img.shields.io/badge/Github-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LivXue/SoMe)
-[![Dataset](https://img.shields.io/badge/Dataset-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/LivXue/SoMe)
+[![Dataset](https://img.shields.io/badge/Dataset-yellow?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/datasets/LivXue/Social-Media-Agents-Benchmark)
 [![Paper](https://img.shields.io/badge/Paper-red?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.14720)
 [![AAAI](https://img.shields.io/badge/AAAI-0066cc?style=for-the-badge&logo=readthedocs&logoColor=white)](https://ojs.aaai.org/index.php/AAAI/article/view/37113)
 
